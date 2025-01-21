@@ -6,6 +6,6 @@ Google_Scholar_profile: https://scholar.google.com/citations?user=MepHbYgAAAAJ&h
 Slug: 99
 Team: Machine Learning Core
 Place: Member
-Team_Link: machine-learning-core
+Team_Link: mlt
 Employee_Status: Active
 Date: 2010-12-03 10:20

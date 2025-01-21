@@ -3,7 +3,7 @@ Position: Data Scientist
 Image: Eric_19.jpeg
 Team: Data Science and Sharing Team
 Place: Member
-Team_Link: data-science-and-sharing-team
+Team_Link: dsst
 Slug: 81
 Date: 2010-12-03 10:20
 Employee_Status: Contributors

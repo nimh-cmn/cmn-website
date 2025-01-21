@@ -7,6 +7,6 @@ Slug: 83
 Date: 2024-10-19 14:03
 Employee_Status: Alumni
 Subheading: Current: BME Ph.D. student at JHU
-Team: Data Science and Sharing Team
+Team: dsst
 Place: Former Team Members
 Team_Link: data-science-and-sharing-team

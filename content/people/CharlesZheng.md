@@ -7,5 +7,5 @@ Slug: 12
 Date: 2024-10-19 13:50
 Team: Machine Learning Core
 Place: Member
-Team_Link: machine-learning-core
+Team_Link: mlt
 Employee_Status: Active

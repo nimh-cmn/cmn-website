@@ -9,7 +9,7 @@ GitHub: https://github.com/agt24
 OpenAlex: https://explore.openalex.org/authors/A2315125368
 Team: Data Science and Sharing Team
 Place: Member
-Team_Link: data-science-and-sharing-team
+Team_Link: dsst
 Slug: 7
 Date: 2010-12-03 10:20
 
