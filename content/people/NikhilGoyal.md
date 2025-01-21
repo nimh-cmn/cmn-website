@@ -10,4 +10,4 @@ Employee_Status: Alumni
 Subheading: Current: Medical Student at the University of Pennsylvania
 Team: Data Science and Sharing Team
 Place: Former Team Members
-Team_Link: data-science-and-sharing-team
+Team_Link: dsst

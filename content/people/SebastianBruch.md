@@ -6,5 +6,5 @@ Slug: 78
 Date: 2024-10-19 14:09
 Employee_Status: Alumni
 Place: Former Team Members
-Team_Link: machine-learning-core
+Team_Link: mlt
 Team: Machine Learning Core

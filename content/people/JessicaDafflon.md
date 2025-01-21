@@ -9,7 +9,7 @@ GitHub:
 OpenAlex: 
 Team: Data Science and Sharing Team
 Place: Former Team Members
-Team_Link: data-science-and-sharing-team
+Team_Link: dsst
 Slug: 80
 Date: 2010-12-03 10:20
 

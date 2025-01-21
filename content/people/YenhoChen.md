@@ -6,5 +6,5 @@ Date: 2024-10-19 14:12
 Employee_Status: Alumni
 Subheading: Georgia Tech
 Place: Former Team Members
-Team_Link: machine-learning-core
+Team_Link: mlt
 Team: Machine Learning Core
