@@ -55,5 +55,5 @@ PLUGINS = [
     'plugins.generate_series',
     'plugins.generate_posts',
 ]
-#SITEURL = 'https://cmn.nimh.nih.gov'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://cmn.nimh.nih.gov'
+#SITEURL = 'http://localhost:8000'
