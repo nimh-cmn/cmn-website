@@ -1,5 +1,6 @@
 Title: Dylan Nielson
 Position: research scientist
+Image: dylan-nielson.jpg
 Impactstory: https://profiles.impactstory.org/u/0000-0003-4613-6643
 Google_Scholar: https://scholar.google.com/citations?user=J_e8ChMAAAAJ&hl=en
 GitHub: https://github.com/Shotgunosine
