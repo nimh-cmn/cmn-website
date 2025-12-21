@@ -1,7 +1,7 @@
 Title: Anthony Matar
 Position: postbac IRTA
 Image: photo_anthony.png
-Slug: 97
+Slug: 120
 Date: 2024-10-19 13:45
 Team: Machine Learning Core
 Place: Member
