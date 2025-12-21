@@ -1,5 +1,5 @@
 Title: Nicole Kuznetsov
-Position: postbac IRTA / M.S. student
+Position: Data Science Researcher, NIA/CARD at NIH
 Image: photo_nicole_cropped.jpg
 Slug: 87
 Date: 2024-10-20 19:30
