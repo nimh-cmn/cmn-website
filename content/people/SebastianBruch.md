@@ -1,5 +1,5 @@
 Title: Sebastian Bruch
-Position: Staff Research Scientist at Pinecone
+Position: Senior Research Scientist at Northeastern University
 Image: spiral.png
 Google_Scholar: https://scholar.google.com/citations?user=aAWYKCcAAAAJ&hl=en&oi=ao
 Slug: 78
